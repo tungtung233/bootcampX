@@ -1,4 +1,4 @@
--- calculate the average total duration of assistance requests for each cohort
+-- calculate the average of all total duration of assistance requests for each cohort
 -- this is just the average of the total_duration column from query 8_total_cohort_assistance_duration
 
 SELECT AVG(total_duration) as average_total_duration
